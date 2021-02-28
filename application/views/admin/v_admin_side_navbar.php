@@ -39,7 +39,7 @@
               </a>
               <div id="collapseBootstrap" class="collapse" aria-labelledby="headingBootstrap" data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
-                  <a class="collapse-item" href="" >Input Data</a>
+                  <a class="collapse-item"  href="<?php echo base_url('admin/input_data') ?>" >Input Data</a>
                 </div>
               </div>
             </li>
